@@ -1,5 +1,6 @@
 theme: minima
-title: My awesome title
+title: "My awesome title"
+date: 2021-05-17
 author: Some GitHub User
 email: my-email@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
