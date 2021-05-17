@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Obligatory changes"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm making obligatory changes to progress a lesson
